@@ -2,7 +2,7 @@
 Factory method example from C-sharpcorner.com https://www.c-sharpcorner.com/article/factory-method-design-pattern-in-c-sharp/
 
 This repo contains code examples and definitions of design patterns.
-I created this while studying this concepts.
+I created this while studying these concepts.
 
 If it helps you, enjoy, and feel free to contact me on any questions.
 
